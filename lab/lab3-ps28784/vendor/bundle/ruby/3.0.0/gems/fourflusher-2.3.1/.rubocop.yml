@@ -1,0 +1,30 @@
+Metrics/AbcSize:
+  Max: 35
+
+Metrics/CyclomaticComplexity:
+  Max: 10
+
+Metrics/LineLength:
+  Max: 105
+
+Metrics/MethodLength:
+  Max: 30
+
+Style/AsciiComments:
+  Exclude:
+    - 'src/fourflusher/executable.rb'
+
+Style/ClassVars:
+  Exclude:
+    - 'src/fourflusher/find.rb'
+
+Style/Documentation:
+  Exclude:
+    - 'spec/**/*'
+    - 'test/**/*'
+    - 'src/fourflusher/version.rb'
+    - 'src/fourflusher/compat.rb'
+
+Lint/Void:
+  Exclude:
+    - 'spec/unit_spec.rb'

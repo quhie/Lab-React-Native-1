@@ -1,0 +1,16 @@
+current directory: /Users/doquanghieu/Documents/FPT_Polytechnic/reactNative/demo/lab6_ps28784/vendor/bundle/ruby/3.0.0/gems/json-2.7.1/ext/json
+/Users/doquanghieu/.rvm/rubies/ruby-3.0.0/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/doquanghieu/Documents/FPT_Polytechnic/reactNative/demo/lab6_ps28784/vendor/bundle/ruby/3.0.0/gems/json-2.7.1/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240109-65116-whfwq3 sitelibdir\=./.gem.20240109-65116-whfwq3 clean
+
+current directory: /Users/doquanghieu/Documents/FPT_Polytechnic/reactNative/demo/lab6_ps28784/vendor/bundle/ruby/3.0.0/gems/json-2.7.1/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240109-65116-whfwq3 sitelibdir\=./.gem.20240109-65116-whfwq3
+make: Nothing to be done for `all'.
+
+current directory: /Users/doquanghieu/Documents/FPT_Polytechnic/reactNative/demo/lab6_ps28784/vendor/bundle/ruby/3.0.0/gems/json-2.7.1/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240109-65116-whfwq3 sitelibdir\=./.gem.20240109-65116-whfwq3 install
+
+current directory: /Users/doquanghieu/Documents/FPT_Polytechnic/reactNative/demo/lab6_ps28784/vendor/bundle/ruby/3.0.0/gems/json-2.7.1/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240109-65116-whfwq3 sitelibdir\=./.gem.20240109-65116-whfwq3 clean

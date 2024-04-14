@@ -1,0 +1,13 @@
+current directory: /Users/doquanghieu/Documents/FPT_Polytechnic/reactNative/demo/lab7_ps28784/vendor/bundle/ruby/2.6.0/gems/json-2.7.1/ext/json
+/Users/doquanghieu/.rvm/rubies/ruby-2.6.10/bin/ruby -I /Users/doquanghieu/.rvm/rubies/ruby-2.6.10/lib/ruby/site_ruby/2.6.0 -r ./siteconf20240111-56216-jsegc3.rb extconf.rb
+creating Makefile
+
+current directory: /Users/doquanghieu/Documents/FPT_Polytechnic/reactNative/demo/lab7_ps28784/vendor/bundle/ruby/2.6.0/gems/json-2.7.1/ext/json
+make "DESTDIR=" clean
+
+current directory: /Users/doquanghieu/Documents/FPT_Polytechnic/reactNative/demo/lab7_ps28784/vendor/bundle/ruby/2.6.0/gems/json-2.7.1/ext/json
+make "DESTDIR="
+make: Nothing to be done for `all'.
+
+current directory: /Users/doquanghieu/Documents/FPT_Polytechnic/reactNative/demo/lab7_ps28784/vendor/bundle/ruby/2.6.0/gems/json-2.7.1/ext/json
+make "DESTDIR=" install
